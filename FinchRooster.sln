@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinchRooster", "FinchRooster\FinchRooster.csproj", "{2E8C4F49-F495-4B3D-9157-874F77AAA84D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E8C4F49-F495-4B3D-9157-874F77AAA84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8C4F49-F495-4B3D-9157-874F77AAA84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8C4F49-F495-4B3D-9157-874F77AAA84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8C4F49-F495-4B3D-9157-874F77AAA84D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2359742-6617-4AD7-B141-079FAC68DBCA}
+	EndGlobalSection
+EndGlobal
