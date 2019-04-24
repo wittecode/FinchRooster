@@ -17,7 +17,7 @@ namespace FinchRooster
             // Finch alarm clock
             // Author: Hannah Witte
             // Date Created: (4.18.19)
-            // Last Modified: (4.22.19)
+            // Last Modified: (4.24.19)
             // ****************************************
 
             double LightThreshold = 0;
